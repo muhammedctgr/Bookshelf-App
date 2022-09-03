@@ -7,7 +7,7 @@ In this project, I learned how to extend Flask Microframework so that I can:
 * Organize API Endpoints
 * Handle Cross-Origin Resource Sharing (CORS)
 * Parse the request path and body
-* Use POST, PATCH, and DELETE requests in Flask
+* Use POST, PATCH, and DELETE requests in Flask [Users can see list of books, post a new book, add rating, update rating, and delete book]
 * Handle errors
 
 ## Local Development 
