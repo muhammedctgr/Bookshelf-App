@@ -67,7 +67,7 @@ ALTER TABLE ONLY public.books ALTER COLUMN id SET DEFAULT nextval('public.books_
 -- Data for Name: books; Type: TABLE DATA; Schema: public; Owner: postgres
 --
 
-COPY public.books (id, title, author, rating) FROM postgres;
+COPY public.books (id, title, author, rating) FROM stdin;
 3	The Great Alone	Kristin Hannah	4
 6	Lullaby	Leila Slimani	2
 7	Immigrant, Montana	Amitava Kumar	5
